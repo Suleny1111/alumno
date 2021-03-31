@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\bin\Debug\examen_alumno2.exe.config
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\bin\Debug\examen_alumno2.exe
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\bin\Debug\examen_alumno2.pdb
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\bin\Debug\examen_alumno2.xml
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.exe
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.xml
+c:\users\user\documents\visual studio 2012\Projects\examen_alumno2\examen_alumno2\obj\Debug\examen_alumno2.pdb
